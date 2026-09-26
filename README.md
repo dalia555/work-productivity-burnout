@@ -80,23 +80,6 @@ Five model configurations were tested:
 
 The models were evaluated both **before and after dimension reduction** to investigate how reducing the feature space affected model performance.
 
----
-
-## Model Comparison
-
-The performance of the models was compared before and after dimension reduction.
-
-| Model | Before Reduction | After Reduction |
-|---|---:|---:|
-| Logistic Regression | — | — |
-| Decision Tree | — | — |
-| Random Forest | — | — |
-| SVC | — | — |
-| PCA + Logistic Regression | — | — |
-
-The table can be updated with the actual evaluation results from the project.
-
----
 
 ## Hyperparameter Tuning
 
